@@ -1,0 +1,9 @@
+server:
+  port: 8011
+
+spring:
+  application:
+    name: cloud-payment-service
+
+
+
