@@ -8,6 +8,7 @@
     <artifactId>cloud2020</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+	<11111111>
 
     <modules>
         <module>cloud-consumer-order80</module>
